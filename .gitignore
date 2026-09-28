@@ -1,0 +1,4 @@
+/httpServer-go
+*.env 
+*.exe 
+
